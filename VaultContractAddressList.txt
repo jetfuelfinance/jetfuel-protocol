@@ -1,0 +1,11 @@
+## Jetfuel fuel-bnb LP pancake swap
+-vault
+0x4149531aeD145a15ccc361C469B0c79FE26B4F1c
+-strategy
+0x40fA8ABE4150b6d9D3D6cC16Ec7a4F5503dae662
+
+## Jetfuel fuel-bnb LP street swap
+-vault 
+0x1Ae8F478571E7BC7caC067a8FCD298749BE722AE
+-strategy
+0x63F04Fa44E5Df591fbc093CA4A72b45E7809e392
